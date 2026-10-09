@@ -1,0 +1,27 @@
+{
+  "latitude": 48.78963055526338,
+  "longitude": 24.509399419105385,
+  "forecast_hours": 5,
+  "forecast_days": 7,
+  "cache_max_age_min": 60,
+  "enable_notifications": true,
+  "telegram_bot_token": null,
+  "telegram_chat_id": null,
+  "hazard_thresholds": {
+    "wind_ms": 15,
+    "rain_mm": 4,
+    "snow_cm": 2
+  },
+  "hazardous_weather_codes": [
+    56,
+    57,
+    66,
+    67,
+    75,
+    82,
+    86,
+    95,
+    96,
+    99
+  ]
+}
